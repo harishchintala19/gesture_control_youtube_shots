@@ -1,4 +1,4 @@
-**# Gesture Scroll Youtube Shots
+# Gesture Scroll Youtube Shots
 
 This project allows gesture-based control of YouTube Shorts (or any webpage) using hand gestures from a webcam.
 
